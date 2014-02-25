@@ -1,0 +1,1 @@
+var Pasta = Backbone.Model.extend ({})

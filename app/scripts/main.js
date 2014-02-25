@@ -1,4 +1,4 @@
-console.log('you are amazing');
+console.log('hello main script');
 
 $(document).ready(function(){
 
